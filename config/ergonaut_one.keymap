@@ -9,10 +9,7 @@
 
 &lt { quick-tap-ms = <200>; };
 
-&mt {
-    quick-tap-ms = <200>;
-    flavor = "hold-preferred";
-};
+&mt { quick-tap-ms = <(-1)>; };
 
 / {
     conditional_layers {
