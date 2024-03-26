@@ -91,7 +91,7 @@
             bindings = <
 &mt LGUI KP_NUM  &kp KP_SLASH     &kp KP_N7  &kp KP_N8  &kp KP_N9  &kp KP_MINUS  &kp PRINTSCREEN  &kp HOME      &kp PG_DN     &kp PG_UP   &kp END        &trans
 &mt LALT EQUAL   &kp KP_MULTIPLY  &kp KP_N4  &kp KP_N5  &kp KP_N6  &kp KP_PLUS   &kp INS          &kp LEFT      &kp DOWN      &kp UP      &kp RIGHT      &mt RALT K_APP
-&kp LCTRL        &kp KP_N0        &kp KP_N1  &kp KP_N2  &kp KP_N3  &kp KP_DOT    &kp K_MUTE       &kp LC(LEFT)  &kp LC(DOWN)  &kp LC(UP)  &kp LC(RIGHT)  &kp RCTRL
+&kp LCTRL        &kp KP_N0        &kp KP_N1  &kp KP_N2  &kp KP_N3  &kp KP_DOT    &kp SPACE        &kp LC(LEFT)  &kp LC(DOWN)  &kp LC(UP)  &kp LC(RIGHT)  &kp RCTRL
                                              &trans     &trans     &trans        &trans           &trans        &trans
             >;
         };
