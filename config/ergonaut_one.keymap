@@ -24,14 +24,9 @@
     combos {
         compatible = "zmk,combos";
 
-        combo_esc_l {
+        combo_esc {
             bindings = <&kp ESCAPE>;
-            key-positions = <17 16>;
-        };
-
-        combo_esc_r {
-            bindings = <&kp ESCAPE>;
-            key-positions = <19 18>;
+            key-positions = <0 1>;
         };
 
         combo_caps_word {
